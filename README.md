@@ -72,3 +72,10 @@ ai-enterprise-chatbot/
 ├── requirements.txt
 ├── README.md
 └── .env
+```
+## 👨‍💻 Tác giả
+
+- Đạt Thành                                                                          
+- 📧 Liên hệ: [thanhdat.developer@gmail.com]                                             
+- 📅 Năm: 2025
+
